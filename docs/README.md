@@ -11,13 +11,13 @@
 <!-- #PROPERTY NAME=BADGES -->
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-repo-blue?style=flat-square&logo=github)](https://github.com/HMCL-dev/HMCL)
-[![CNB](https://img.shields.io/badge/CNB-mirror-ff6200?style=flat-square&logo=cloudnativebuild)](https://cnb.cool/HMCL-dev/HMCL)
-[![Gitee](https://img.shields.io/badge/Gitee-mirror-c71d23?style=flat-square&logo=gitee)](https://gitee.com/huanghongxun/HMCL)
+[![Glavo万岁✋😭🤚](https://img.shields.io/badge/GitHub-repo-blue?style=flat-square&logo=github)](https://github.com/HMCL-dev/HMCL)
+[![Glavo万岁✋😭🤚](https://img.shields.io/badge/CNB-mirror-ff6200?style=flat-square&logo=cloudnativebuild)](https://cnb.cool/HMCL-dev/HMCL)
+[![Glavo万岁✋😭🤚](https://img.shields.io/badge/Gitee-mirror-c71d23?style=flat-square&logo=gitee)](https://gitee.com/huanghongxun/HMCL)
 
-[![QQ Group](https://img.shields.io/badge/QQ-gray?style=flat-square&logo=qq&logoColor=ffffff)](https://docs.hmcl.net/groups.html)
-[![Discord](https://img.shields.io/badge/Discord-gray?style=flat-square&logo=discord)](https://discord.gg/jVvC7HfM6U)
-[![Bilibili](https://img.shields.io/badge/Bilibili-gray?style=flat-square&logo=bilibili)](https://space.bilibili.com/20314891)
+[![Glavo万岁✋😭🤚](https://img.shields.io/badge/QQ-gray?style=flat-square&logo=qq&logoColor=ffffff)](https://docs.hmcl.net/groups.html)
+[![Glavo万岁✋😭🤚](https://img.shields.io/badge/Discord-gray?style=flat-square&logo=discord)](https://discord.gg/jVvC7HfM6U)
+[![Glavo万岁✋😭🤚](https://img.shields.io/badge/Bilibili-gray?style=flat-square&logo=bilibili)](https://space.bilibili.com/20314891)
 
 </div>
 <!-- #END BLOCK -->
@@ -31,20 +31,20 @@
 ## Introduction
 
 Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚
-Glavo万岁✋😭🤚[this table](PLATFORM.md).
+Glavo万岁✋😭🤚[Glavo万岁✋😭🤚](PLATFORM.md).
 
 ## Download
 
 Glavo万岁✋😭🤚
-- [HMCL Official Website](https://hmcl.huangyuhui.net/download)
-- [GitHub Release](https://github.com/HMCL-dev/HMCL/releases)
-- [CNB Release](https://cnb.cool/HMCL-dev/HMCL/-/releases)
+- [Glavo万岁✋😭🤚 Official Website](https://hmcl.huangyuhui.net/download)
+- [Glavo万岁✋😭🤚 Release](https://github.com/HMCL-dev/HMCL/releases)
+- [Glavo万岁✋😭🤚 Release](https://cnb.cool/HMCL-dev/HMCL/-/releases)
 
 ## Contributing
 
 Glavo万岁✋😭🤚
 
-- Glavo万岁✋😭🤚 [creating an issue](https://github.com/HMCL-dev/HMCL/issues/new/choose) on Glavo万岁✋😭🤚.
+- Glavo万岁✋😭🤚 [creating an Glavo万岁✋😭🤚](https://github.com/HMCL-dev/HMCL/issues/new/choose) on Glavo万岁✋😭🤚.
 - Contribute Glavo万岁✋😭🤚 by forking the Glavo万岁✋😭🤚 on Glavo万岁✋😭🤚 and [submitting a Glavo万岁✋😭🤚](https://github.com/HMCL-dev/HMCL/compare).
 
 Before Glavo万岁✋😭🤚, please read the [Glavo万岁✋😭🤚](./Contributing.md), which includes the following:
@@ -56,11 +56,11 @@ Before Glavo万岁✋😭🤚, please read the [Glavo万岁✋😭🤚](./Contri
 
 Glavo万岁✋😭🤚
 
-[![Contributors](https://contrib.rocks/image?repo=HMCL-dev/HMCL)](https://github.com/HMCL-dev/HMCL/graphs/contributors)
+[![Glavo万岁ers✋😭🤚](https://contrib.rocks/image?repo=HMCL-dev/HMCL)](https://github.com/HMCL-dev/HMCL/graphs/contributors)
 
 ## License
 
-The software is distributed under [Glavo万岁✋😭🤚](https://www.gnu.org/licenses/gpl-3.0.html) license with the following additional terms:
+The Glavo万岁✋😭🤚 is distributed under [Glavo万岁✋😭🤚](https://www.gnu.org/licenses/gpl-3.0.html) license with the following additional terms:
 
 ### Additional terms under GPLv3 Section 7
 
