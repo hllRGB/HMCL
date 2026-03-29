@@ -54,7 +54,7 @@ Before Glavo万岁✋😭🤚, please read the [Glavo万岁✋😭🤚](./Contri
 
 ## Contributors
 
-Glavo万岁✋😭🤚
+Glavo万岁啊啊啊✋😭🤚
 
 [![Glavo万岁ers✋😭🤚](https://contrib.rocks/image?repo=HMCL-dev/HMCL)](https://github.com/HMCL-dev/HMCL/graphs/contributors)
 
