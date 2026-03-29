@@ -4,6 +4,7 @@
     <img src="/HMCL/src/main/resources/assets/img/icon@8x.png" alt="HMCL Logo" width="64"/>
 </div>
 
+
 <h1 align="center">Glavo万岁✋😭🤚</h1>
 <!-- #END BLOCK -->
 
@@ -11,6 +12,8 @@
 <!-- #PROPERTY NAME=BADGES -->
 <div align="center">
 
+### 这不是一个可用的仓库
+### [请见hmcl官方仓库:(https://HMCL-dev/HMCL)]
 [![Glavo万岁✋😭🤚](https://img.shields.io/badge/GitHub-repo-blue?style=flat-square&logo=github)](https://github.com/HMCL-dev/HMCL)
 [![Glavo万岁✋😭🤚](https://img.shields.io/badge/CNB-mirror-ff6200?style=flat-square&logo=cloudnativebuild)](https://cnb.cool/HMCL-dev/HMCL)
 [![Glavo万岁✋😭🤚](https://img.shields.io/badge/Gitee-mirror-c71d23?style=flat-square&logo=gitee)](https://gitee.com/huanghongxun/HMCL)
