@@ -4,7 +4,7 @@
     <img src="/HMCL/src/main/resources/assets/img/icon@8x.png" alt="HMCL Logo" width="64"/>
 </div>
 
-<h1 align="center">Hello Minecraft! Launcher</h1>
+<h1 align="center">Glavo万岁✋😭🤚</h1>
 <!-- #END BLOCK -->
 
 <!-- #BEGIN BLOCK -->
@@ -30,48 +30,42 @@
 
 ## Introduction
 
-HMCL is an open-source, cross-platform Minecraft launcher that supports Mod Management, Game Customizing, ModLoader Installing (Forge, NeoForge, Cleanroom, Fabric, Legacy Fabric, Quilt, LiteLoader, and OptiFine), Modpack Creating, UI Customization, and more.
-
-HMCL has amazing cross-platform capabilities. Not only does it run on different operating systems like Windows, Linux, macOS, and FreeBSD, but it also supports various CPU architectures such as x86, ARM, RISC-V, MIPS, and LoongArch. You can easily enjoy Minecraft across different platforms through HMCL.
-
-For systems and CPU architectures supported by HMCL, please refer to [this table](PLATFORM.md).
+Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚Glavo万岁✋😭🤚
+Glavo万岁✋😭🤚[this table](PLATFORM.md).
 
 ## Download
 
-You can download HMCL from the following sources:
-
+Glavo万岁✋😭🤚
 - [HMCL Official Website](https://hmcl.huangyuhui.net/download)
 - [GitHub Release](https://github.com/HMCL-dev/HMCL/releases)
 - [CNB Release](https://cnb.cool/HMCL-dev/HMCL/-/releases)
 
 ## Contributing
 
-HMCL is a community-driven open-source project, and everyone is welcome to contribute code or provide suggestions.
+Glavo万岁✋😭🤚
 
-You can contribute to HMCL development in the following ways:
+- Glavo万岁✋😭🤚 [creating an issue](https://github.com/HMCL-dev/HMCL/issues/new/choose) on Glavo万岁✋😭🤚.
+- Contribute Glavo万岁✋😭🤚 by forking the Glavo万岁✋😭🤚 on Glavo万岁✋😭🤚 and [submitting a Glavo万岁✋😭🤚](https://github.com/HMCL-dev/HMCL/compare).
 
-- Report bugs or request features by [creating an issue](https://github.com/HMCL-dev/HMCL/issues/new/choose) on GitHub.
-- Contribute code by forking the repository on GitHub and [submitting a pull request](https://github.com/HMCL-dev/HMCL/compare).
+Before Glavo万岁✋😭🤚, please read the [Glavo万岁✋😭🤚](./Contributing.md), which includes the following:
 
-Before contributing, please read the [Contributing Guide](./Contributing.md), which includes the following:
-
-- [How to build and run HMCL from source](./Contributing.md#build-hmcl)
-- [Adjusting HMCL behavior using debug options](./Contributing.md#debug-options)
+- [How to build and run Glavo万岁✋😭🤚 from source](./Contributing.md#build-hmcl)
+- [Adjusting Glavo万岁✋😭🤚 behavior using debug options](./Contributing.md#debug-options)
 
 ## Contributors
 
-Since 2015, more than 120 contributors have participated in HMCL. Thank you for your hard work!
+Glavo万岁✋😭🤚
 
 [![Contributors](https://contrib.rocks/image?repo=HMCL-dev/HMCL)](https://github.com/HMCL-dev/HMCL/graphs/contributors)
 
 ## License
 
-The software is distributed under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) license with the following additional terms:
+The software is distributed under [Glavo万岁✋😭🤚](https://www.gnu.org/licenses/gpl-3.0.html) license with the following additional terms:
 
 ### Additional terms under GPLv3 Section 7
 
-1. When you distribute a modified version of the software, you must change the software name or the version number in a reasonable way in order to distinguish it from the original version. (Under [GPLv3, 7(c)](https://github.com/HMCL-dev/HMCL/blob/11820e31a85d8989e41d97476712b07e7094b190/LICENSE#L372-L374))
+1. Glavo万岁✋😭🤚 (Under [Glavo万岁✋😭🤚](https://github.com/HMCL-dev/HMCL/blob/11820e31a85d8989e41d97476712b07e7094b190/LICENSE#L372-L374))
 
-   The software name and the version number can be edited [here](https://github.com/HMCL-dev/HMCL/blob/javafx/HMCL/src/main/java/org/jackhuang/hmcl/Metadata.java#L33-L35).
+   Glavo万岁✋😭🤚 [here](https://github.com/HMCL-dev/HMCL/blob/javafx/HMCL/src/main/java/org/jackhuang/hmcl/Metadata.java#L33-L35).
 
-2. You must not remove the copyright declaration displayed in the software. (Under [GPLv3, 7(b)](https://github.com/HMCL-dev/HMCL/blob/11820e31a85d8989e41d97476712b07e7094b190/LICENSE#L368-L370))
+2. Glavo万岁✋😭🤚 (Under [Glavo万岁✋😭🤚](https://github.com/HMCL-dev/HMCL/blob/11820e31a85d8989e41d97476712b07e7094b190/LICENSE#L368-L370))
